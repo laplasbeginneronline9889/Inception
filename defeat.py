@@ -1,2 +1,2 @@
 print("Dagestan")
-print("Chechnya")
+print("Tatarstan")
