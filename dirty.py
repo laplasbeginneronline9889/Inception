@@ -1,0 +1,1 @@
+print("Anya snova nudit")
